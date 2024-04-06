@@ -1,0 +1,15 @@
+{
+    "name": "shane watson",
+    "description": "chennai super kings",
+    "image": "https://www.google.com/imgres?q=watson&imgurl=https%3A%2F%2Fbsmedia.business-standard.com%2F_media%2Fbs%2Fimg%2Farticle%2F2018-04%2F21%2Ffull%2F1524305103-3372.jpg%3Fim%3DFeatureCrop%2Csize%3D(826%2C465)&imgrefurl=https%3A%2F%2Fwww.business-standard.com%2Farticle%2Fsports%2Fipl-2022-delhi-capitals-name-australian-shane-watson-as-assistant-coach-122031500604_1.html&docid=uz67mtWhK07_SM&tbnid=zWQNjtTeigufPM&vet=12ahUKEwiJmeHcrK6FAxURRmcHHbf-C9QQM3oECFIQAA..i&w=826&h=465&hcb=2&ved=2ahUKEwiJmeHcrK6FAxURRmcHHbf-C9QQM3oECFIQAA",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
